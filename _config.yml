@@ -1,10 +1,10 @@
 # Site wide configuration
 
 title: "黄淑勤的个人学习博客"
-description: "最热爱的事情是学习."
+description: "最热爱的事情是学习"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: zh_CN # 本地化翻译
 url:
 feed:
   path: atom.xml
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: 黄淑勤
+  email: 897794324@qq.com
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "黄淑勤 中山大学南方学院网络与新媒体专业学生"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
@@ -62,3 +62,35 @@ exclude:
   - package.json
   - spec
   - tmp
+  
+# Site Author
+author:
+  name             : "黄淑勤"
+  avatar           : "hsq.jpg"
+  bio              : "中山大学南方学院网络与新媒体专业学生"
+  location         : "广东"
+  email            : "846853193@qq.com"
+  uri              : "中山大学南方学院"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "SQsuki"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            : 
+  xing             :
+  youtube          :
