@@ -2,7 +2,7 @@
 layout: article
 title:  "关于作者"
 date:   2018-01-02 21:o7:30 +0800
-categories: posts rwd
+categories:
 image:
   teaser: sss.jpg
   feature: sss.jpg
