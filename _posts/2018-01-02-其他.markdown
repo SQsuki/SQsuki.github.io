@@ -4,8 +4,7 @@ title:  "关于作者"
 date:   2018-01-02 21:o7:30 +0800
 categories:
 image:
-  teaser: sss.jpg
-  feature: sss.jpg
+  feature: bio.jpg
 ---
 # 关于作者
 - 作者来自中山大学南方学院
