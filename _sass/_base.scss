@@ -7,10 +7,11 @@
    ========================================================================== */
 
 body {
-	font-family: $base-font;
-	color: $text-color;
-  background-image:
-  url('../images/背景.jpg');
+	  font-family: $base-font;
+	  color: $text-color;
+    background-image:
+    url('../images/背景.jpg');
+  
 	@include font-size(16);
 }
 
