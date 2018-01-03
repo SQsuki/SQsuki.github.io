@@ -93,10 +93,6 @@ image:
 
 ---
 
-
-（简书最新的 Markdown 不能使用图片链接。。。感受不爱）
-**P.P.P.S.**
-
 更多的 Markdown 特性测试，见我的 [Markdown 一篇博客](http://jianshu.io/p/6827f850f723)
 
 在简书中输入数学公式：见我的 [简书中编辑数学公式](http://jianshu.io/p/e8a14ec1c614)
