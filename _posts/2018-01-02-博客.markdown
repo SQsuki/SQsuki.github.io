@@ -3,8 +3,8 @@ layout: default
 title:  "关于博客"
 categories: 
 image:
-  teaser: zp.jpg
-  feature: zp.jpg
+  teaser: ss.jpg
+  feature: ss.jpg
 ---
 
 # 首先！
