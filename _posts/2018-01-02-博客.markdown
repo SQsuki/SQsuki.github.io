@@ -9,4 +9,4 @@ image:
 关于我的第一份网页设计作品，很粗糙，排版跟图片尺寸都有问题，路很长，慢慢改吧，加油！
 
  
-[关于我的第一份网页设计作品，点击网页设计座机也可查看](https://sqsuki.github.io/portfolio/qizhong/CYWL.html)
+[关于我的第一份网页设计作品，点击网页设计作品集也可查看](https://sqsuki.github.io/portfolio/qizhong/CYWL.html)
