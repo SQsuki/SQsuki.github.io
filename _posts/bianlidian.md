@@ -1,8 +1,8 @@
 ---
-layout: article
+layout: default
 title:  " 信息可视化作品之便利店 "
-date:   2018-1-1 15:07:50 +0800
-categories: infovis
+date:   2018-01-04 15:07:50 +0800
+categories: infovis portfolio
 image:
   teaser: BLD.png
   feature: BLD.png
