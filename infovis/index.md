@@ -1,6 +1,6 @@
 
 <div class="tiles">
-{% for post in site.categories.kawa%}
+{% for post in site.categories.posts%}
   {% include post-grid.html %}
 {% endfor %}
 </div>
