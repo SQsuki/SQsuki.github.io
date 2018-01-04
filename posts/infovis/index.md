@@ -1,6 +1,6 @@
 
 <div class="tiles">
-{% for post in site.categories.rwd %}
+{% for post in site.categories.infovis %}
   {% include post-grid.html %}
 {% endfor %}
 </div>
