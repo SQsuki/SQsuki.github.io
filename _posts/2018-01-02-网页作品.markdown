@@ -3,8 +3,8 @@ layout: default
 title:  "关于第一份作业"
 categories: rwd portfolio
 image:
-  teaser: chuyin.jpg
-  feature: chuyin.jpg
+  teaser: ss.jpg
+  feature: ss.jpg
 ---
 关于我的第一份网页设计作品，很粗糙，排版跟图片尺寸都有问题，路很长，慢慢改吧，加油！
 
