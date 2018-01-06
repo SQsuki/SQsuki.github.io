@@ -1,7 +1,10 @@
- date:   2018-01-01 13:15:50 +0800
+ ---
+ layout: article
+ title:  "关于我"
+  date:   2018-01-01 13:15:50 +0800
   categories:
   image:
- -  teaser: ssss.jpg
+    teaser: ssss.jpg
   ---
   - 我来自中山大学南方学院
   - 脑子不灵活，凌晨效率最高
