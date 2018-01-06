@@ -2,10 +2,11 @@
 layout: article
 title:  "关于我"
 date:   2018-01-01 13:15:50 +0800
-categories:
+categories:  
 image:
   teaser: ssss.jpg
 ---
+
 - 我来自中山大学南方学院
 - 脑子不灵活，凌晨效率最高
 - 做网页很累，但学到的东西真的很实用
