@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "关于第一份作业"
-categories: rwd portfolio 
+categories: portfolio 
 image:
   teaser: chuyin.jpeg
   feature: chuyin.jpeg
