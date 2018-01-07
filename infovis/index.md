@@ -8,7 +8,8 @@ tags: []
 ---
 
 #### 期末高德地图之便利店
-- [链接](https://public.tableau.com/profile/.8478#!/vizhome/shop_0/sheet6?publish=yes)![仪表板.png]https://i.loli.net/2018/01/07/5a522458e2c17.png)
+- [链接](https://public.tableau.com/profile/.8478#!/vizhome/shop_0/sheet6?publish=yes)![仪表板.png](https://i.loli.net/2018/01/07/5a522458e2c17.png)
+
 <div class="tiles">
 {% for post in site.categories.infovis%}
   {% include post-grid.html %}
