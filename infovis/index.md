@@ -9,7 +9,9 @@ tags: []
 
 
 #### 期末高德地图之便利店
-- [链接](https://public.tableau.com/views/shop_0/sheet6_1?:embed=y&:display_count=yes&publish=yes)![仪表板.png](https://i.loli.net/2018/01/22/5a65fd0287d4b.png)
+- [点击此处进入期末作品的tableau public](https://public.tableau.com/views/shop_0/sheet6_1?:embed=y&:display_count=yes&publish=yes)
+
+![仪表板.png](https://i.loli.net/2018/01/22/5a65fd0287d4b.png)
 
 
 <div class="tiles">
